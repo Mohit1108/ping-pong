@@ -1,4 +1,6 @@
 
+import "./styles.css";
+
 
 const canvas = document.getElementById('canvas');
 const WIDTH = 400,
@@ -162,4 +164,3 @@ function drawGame() {
     requestAnimationFrame(drawGame);
 }
 drawGame();
-import "./styles.css";
