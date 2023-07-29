@@ -1,5 +1,4 @@
 
-import "./styles.css";
 
 
 const canvas = document.getElementById('canvas');
